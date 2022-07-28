@@ -12,7 +12,7 @@ app = {
         # row two
         (0x000000, "", [""]),  # nothing
         (0x000000, "", [""]),  # nothing
-        (0x000000, "?", [""]),  # nothing
+        (0x000000, "", [""]),  # nothing
         # row three
         (0x000000, "", [""]),  # nothing
         (0x000000, "", [""]),  # nothing

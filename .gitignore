@@ -153,3 +153,6 @@ macros/win-edge.py
 
 # vscode artifacts
 .vscode/
+
+# test
+System Volume Information/

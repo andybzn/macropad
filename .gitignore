@@ -127,3 +127,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Macropad filesystem
+.fseventsd/
+lib/
+.metadata_never_index
+.Trashes
+boot_out.txt
+code.py
+
+# Default macros
+lib/
+macros/linux-firefox.py
+macros/mac-adobe-illustrator.py
+macros/mac-adobe-photoshop.py
+macros/mac-evernote.py
+macros/mac-safari.py
+macros/media.py
+macros/mouse.py
+macros/numpad.py
+macros/tones.py
+macros/win-adobe-illustrator.py
+macros/win-adobe-photoshop.py
+macros/win-edge.py
+
+# vscode artifacts
+.vscode/

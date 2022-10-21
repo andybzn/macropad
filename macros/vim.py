@@ -10,9 +10,9 @@ app = {
         # row one
         (0x000040, ":q!", [":", "q", "!"]),  # hard quit 
         (0x000010, ":wq!", [":", "w", "q"]),  # save and quit 
-        (0x000000, "dd", ["d", "d"]),  # delete line
+        (0x000000, ":reg", [":", "r", "e", "g"]),  # show registers
         # row two
-        (0x000000, "", [""]),  # nothing
+        (0x000000, "dd", ["d", "d"]),  # delete line
         (0x000000, "", [""]),  # nothing
         (0x000000, "", [""]),  # nothing
         # row three

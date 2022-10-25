@@ -13,8 +13,8 @@ app = {
         (0x000000, ":reg", [":", "r", "e", "g"]),  # show registers
         # row two
         (0x000000, "dd", ["d", "d"]),  # delete line
-        (0x000000, "", [""]),  # nothing
-        (0x000000, "", [""]),  # nothing
+        (0x000000, "yank", ["y"]),  # yank
+        (0x000000, "put", ["p"]),  # put
         # row three
         (0x000000, "", [""]),  # nothing
         (0x000000, "", [""]),  # nothing
